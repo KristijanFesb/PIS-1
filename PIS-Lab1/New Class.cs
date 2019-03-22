@@ -8,5 +8,7 @@ namespace PIS_Lab1
 {
     class New_Class
     {
+        void methodInYourClass(){
+        }
     }
 }
